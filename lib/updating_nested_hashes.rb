@@ -21,13 +21,8 @@
    }
 }
 
-def update_status 
 epic_tragedy[:motague][:hero][:status] = "dead"
 epic_tragedy[:capulet][:heroine][:status] = "dead"
-puts epic_tragedy 
-end 
-
-def fix_roles 
 epic_tragedy[:additional_characters] << { name: "Prince Escalus" }
 epic_tragedy[:additional_characters] << { name: "Apothecary" }
 puts epic_tragedy
