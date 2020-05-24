@@ -1,4 +1,4 @@
-epic_tragedy[:motague][:hero][:status] = "dead"
+def epic_tragedy[:motague][:hero][:status] = "dead"
 
 {
    :montague => {
