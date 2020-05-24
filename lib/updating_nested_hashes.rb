@@ -11,10 +11,8 @@ epic_tragedy = {
    
       epic_tragedy[:montague][:hero][:status] = "dead"
       epic_tragedy[:montague][:heroine][:status] = "dead"
-      puts epic_tragedy 
-      
-      epic tragedy
-      
+
+    
    :capulet => {
       :patriarch => {name: "Lord Capulet", age: "50"},
       :matriarch => {name: "Lady Capulet", age: "51"},
@@ -25,3 +23,5 @@ epic_tragedy = {
       ]
    }
 }
+
+epic_tragedy[:additional_characters] = [prince = {name: "Prince Escalus"}, apothecary = {name: "Apothecary"}]
