@@ -1,5 +1,3 @@
-
-
 {
    :montague => {
       :patriarch => {name: "Michael Jordan", age: "53"},
