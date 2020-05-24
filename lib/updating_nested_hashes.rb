@@ -27,8 +27,7 @@ end
    }
 }
 
-def epic_tragedy 
-  
+def update_status 
 epic_tragedy[:motague][:hero][:status] = "dead"
 epic_tragedy[:capulet][:heroine][:status] = "dead"
 puts epic_tragedy 
