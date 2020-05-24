@@ -1,11 +1,5 @@
 
 
-def update_status 
-epic_tragedy[:additional_characters] << { name: "Prince Escalus" }
-epic_tragedy[:additional_characters] << { name: "Apothecary" }
-
-end 
-
 {
    :montague => {
       :patriarch => {name: "Michael Jordan", age: "53"},
@@ -31,4 +25,13 @@ def update_status
 epic_tragedy[:motague][:hero][:status] = "dead"
 epic_tragedy[:capulet][:heroine][:status] = "dead"
 puts epic_tragedy 
+end 
+
+def fix_roles 
+  
+
+def update_status 
+epic_tragedy[:additional_characters] << { name: "Prince Escalus" }
+epic_tragedy[:additional_characters] << { name: "Apothecary" }
+
 end 
