@@ -28,9 +28,6 @@ puts epic_tragedy
 end 
 
 def fix_roles 
-  
-
-def update_status 
 epic_tragedy[:additional_characters] << { name: "Prince Escalus" }
 epic_tragedy[:additional_characters] << { name: "Apothecary" }
 
