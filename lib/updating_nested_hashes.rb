@@ -18,14 +18,12 @@ def update_status
         {name: "Nurse", age: "44", attitude: "worried"}
       ]
    }
-}
-
-def update_status
-epic_tragedy = {
-epic_tragedy[:motague][:hero][:status] = "dead"
+   
+   epic_tragedy[:motague][:hero][:status] = "dead"
 epic_tragedy[:capulet][:heroine][:status] = "dead"
 }
-end 
+
+}
 
 def additional_characters
   epic_tragedy = {
