@@ -1,3 +1,4 @@
+epic_tragedy[:motague][:hero][:status] = "dead"
 
 {
    :montague => {
@@ -19,4 +20,3 @@
       ]
    }
 }
-
