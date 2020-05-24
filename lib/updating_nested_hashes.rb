@@ -24,7 +24,7 @@ epic_tragedy[:capulet][:heroine][:status] = "dead"
 epic_tragedy 
 end 
 
-def fix_roles 
+def additional_characters 
    epic_tragedy = {
    :montague => {
       :patriarch => {name: "Michael Jordan", age: "53"},
