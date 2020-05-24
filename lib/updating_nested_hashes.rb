@@ -46,7 +46,4 @@ def additional_characters
    },
 
 }
-:additional_characters => {epic_tragedy[:additional_characters] << { name: "Prince Escalus"},
-:additional_characters => epic_tragedy[:additional_characters] << { name: "Apothecary"}
-epic_tragedy
 end
