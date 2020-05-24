@@ -30,5 +30,5 @@ end
 def fix_roles 
 epic_tragedy[:additional_characters] << { name: "Prince Escalus" }
 epic_tragedy[:additional_characters] << { name: "Apothecary" }
-
+puts epic_tragedy
 end 
