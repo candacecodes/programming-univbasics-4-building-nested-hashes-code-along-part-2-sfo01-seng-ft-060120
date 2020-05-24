@@ -1,11 +1,12 @@
-def epic_tragedy { 
+def epic_tragedy 
   
   epic_tragedy[:motague][:hero][:status] = "dead"
 epic_tragedy[:capulet][:heroine][:status] = "dead"
 
 epic_tragedy[:additional_characters] << { name: "Prince Escalus" }
 epic_tragedy[:additional_characters] << { name: "Apothecary" }
-}
+
+end 
 
 {
    :montague => {
