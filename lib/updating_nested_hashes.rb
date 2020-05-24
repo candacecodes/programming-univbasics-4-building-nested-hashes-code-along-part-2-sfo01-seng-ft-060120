@@ -46,4 +46,6 @@ def additional_characters
    },
 
 }
+
+
 end
