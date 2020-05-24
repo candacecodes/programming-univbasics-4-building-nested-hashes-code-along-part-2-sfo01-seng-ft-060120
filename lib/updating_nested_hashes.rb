@@ -1,4 +1,5 @@
-def {
+def update_status
+  
    :montague => {
       :patriarch => {name: "Michael Jordan", age: "53"},
       :matriarch => {name: "Lady Montague", age: "54"},
