@@ -21,9 +21,14 @@
    }
 }
 
+def update_status
+  epic_tragedy = {
 epic_tragedy[:motague][:hero][:status] = "dead"
 epic_tragedy[:capulet][:heroine][:status] = "dead"
+}
+
+def additional_characters
+  epic_tragedy = {
 epic_tragedy[:additional_characters] << { name: "Prince Escalus" }
 epic_tragedy[:additional_characters] << { name: "Apothecary" }
-puts epic_tragedy
-end 
+}
